@@ -4,7 +4,7 @@ using System.Linq;
 using QuizApp.ApiModels;
 using QuizApp.Core.Models;
 
-namespace QuizApp.ApiModels
+namespace QuizApp.ApiModels 
 {
 	public static class AnswerMappingExtensions
 	{
